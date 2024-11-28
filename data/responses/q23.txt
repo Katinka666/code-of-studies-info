@@ -1,0 +1,11 @@
+If everyone fails the first Calculus exam, the following procedures apply according to the university's code of studies:
+
+1. **Retake Exam Availability**: The educational organisational unit responsible for teaching Calculus may schedule a date for a retake exam based on the number of students who received unsuccessful results. 
+
+2. **Retake Exams**: Students who failed the exam are allowed to take a retake exam. If the retake exam is also failed, there is an option for a repeated retake exam.
+
+3. **Timeframe for Retakes**: Failed first or repeated retake exams cannot be repeated within fifteen days of the failed exam.
+
+4. **Request for Different Examiner**: Students can request to take a retake or repeat retake exam in the presence of a different instructor or board of examiners, subject to approval by the head of the educational organisational unit or the dean if the head is involved in the examination process.
+
+5. **Board of Examiners**:

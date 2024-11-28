@@ -182,3 +182,14 @@ def write_embeddings(text_unit, embeddings):
     except Exception as ex:
         logging.error(f"Writing the embeddings to file was unsuccessful: {ex}")
         raise
+
+# read response for the question with the given index
+def read_response(q_idx):
+    logging.debug(f"Reading response for question {q_idx}...")
+    try: 
+        with open(f"{data_dir}/responses/q{q_idx}.txt", "r") as file:
+            lines = file.readlines()
+            return lines
+    except Exception as ex:
+        logging.error(f"Reading the response for question {q_idx} was unsuccessful: {ex}")
+        raise 

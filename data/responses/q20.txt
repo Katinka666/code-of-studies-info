@@ -1,0 +1,13 @@
+The primary difference between an exam and a midterm exam based on the provided extract is their scope and structure:
+
+1. **Midterm Exam:**
+   - A midterm exam is specifically defined as a written summative evaluation of learning outcomes.
+   - It is conducted in a controlled environment under the supervision of an instructor.
+   - The completion time for a midterm exam is 30 minutes or more.
+   - It focuses on assessing the student's progress and understanding of the course material up to the midpoint of the term.
+
+2. **Exam:**
+   - An exam is a broader form of assessment that evaluates the achievement of specific learning outcomes related to a single subject.
+   - Exams can include various components such as oral assessments, written assessments, practical exercises, and may incorporate results from midterm assessments.
+   - Exams can be single (one component) or combined (multiple components), with a maximum of three parts.
+   - The structure and components of an exam are defined by the subject requirements

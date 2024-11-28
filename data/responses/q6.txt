@@ -1,0 +1,12 @@
+A request for redress must contain the following data:
+
+1. The student's name.
+2. The student identification number or identification code in the SAS.
+3. The student's current legal status and contact details, including home address, email address, and telephone number, and any other contact information if available.
+4. The name of the body or person whose decision is intended to be contested by the redress procedure.
+5. Information allowing and/or required for the identification of the contested decision, including the manner and time of becoming aware of such decision.
+6. The infringement caused by the decision, supported by facts and evidence.
+7. A direct request to seek a decision from the body in charge of the redress procedure.
+8. If the student uses a representative, the name, home address or domicile of the representative and the proof of authorisation of representation must be attached. 
+
+Additionally, the request must be reasoned, and it can only introduce new facts that the applicant was unaware of during the

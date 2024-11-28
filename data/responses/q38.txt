@@ -1,0 +1,9 @@
+The enrolment process can be slow due to several factors as outlined in the university's code of studies:
+
+1. **Complex Administrative Requirements**: Enrolment involves the establishment of a student's legal status, which requires the completion and verification of multiple administrative steps. This includes presenting original or certified copies of relevant certificates or diplomas, signing contracts for fee-paying programmes, and providing all necessary personal data as specified by law.
+
+2. **Verification and Authentication**: The enrolment declaration must be authenticated by the University, and this process involves the direct involvement of the competent data controller organisation. This verification process ensures that all documents and information are accurate and complete, which can be time-consuming.
+
+3. **Late Enrolment Procedures**: There are provisions for late enrolment, each with different deadlines and statuses (active or passive), which add layers of complexity to the process. These rules require careful management and tracking by university staff.
+
+4. **Multiple Programmes and Statuses**: Students who have

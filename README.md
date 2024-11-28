@@ -37,7 +37,7 @@ Two texts will be generated for each question:
 
 These texts will be inserted in the prompt as appropriate and sent to the LLM. The student will receive the answer to her/his question. (Hopefully!)
 
-## How to use
+## How to run the script
 
 0. Make sure you have _python3_ installed. You can check it by running the following command:
 
@@ -62,10 +62,40 @@ These texts will be inserted in the prompt as appropriate and sent to the LLM. T
 
 3. The aswer for the _{i}._ question will be saved in _data/responses/q{i}.txt_, where _i_ is the index of the question in the _questions.txt_ file.
 
+## How to use the GUI
+
+The GUI is quite simple. Here is how to use it:
+
+0. Make sure you have _python3_ installed. You can check it by running the following command:
+
+    ~~~
+    python3 --version
+    ~~~
+
+    You will also need an _OpenAI API key_. Create a _.env_ file, and save it there: 
+
+    ~~~
+    OPENAI_API_KEY="your-open-api-key"
+    ~~~
+
+1. Save your questions in _data/questions/questions.txt_. Each question should be in a separate line. These questions will be identified by their indexes, thus, on which line of the file they are located. (Starting with zero!)
+
+2. Run _info.py_ with the following command:
+
+    ~~~
+    python3 info.py
+    ~~~
+3. In the pop-up window you can enter the index of your question. Click the _OK_ button, and the answer will be displayed.
+
+    ![](docs/gui.png)
+
 ## Future plans
- - **Documentation**...
+ - **Documentation**... ✓
+ - Writing about the **question database** ✓
+ - Analyse the **answers** according to different criteria
  - Some **data visualization** using _Matplotlib_
  - Playing with the **parameters** (_top x_, _top y_)
  - Different ways of choosing the relevant **text slices** (For example: Using chunks that contain the chosen sentences)
- - A simple **GUI** may be nice
+ - A simple **GUI** may be nice ✓
  - **Refactor** the code a bit more
+ - Make it possible to **directly ask** questions
