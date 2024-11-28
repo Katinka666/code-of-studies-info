@@ -11,3 +11,12 @@
 
 ## API
 - **model**: gpt-4o
+
+## GUI
+
+- tkinter
+
+## Visualization
+
+- **visualizing data**: matplotlib
+- **dimension reduction**: umap
