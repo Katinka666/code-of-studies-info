@@ -25,7 +25,8 @@ def get_response(prompt):
         logging.error(f"The prompt must contain exactly 2 elements, but it was {len(prompt)}")
         raise ValueError(f"The prompt must contain exactly 2 elements!")
     response = client.chat.completions.create(
-        model="gpt-4o",
+        # model="gpt-4o",
+        model="gpt-3.5-turbo",
         messages=[
             {
             "role": "system",

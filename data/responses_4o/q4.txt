@@ -1,0 +1,13 @@
+Your degree certificate result will be calculated using one of the following formulas, depending on the specific requirements of your academic program:
+
+1. If your curriculum includes comprehensive exams:
+   - Degree Certificate Result = 0.2×AGS + 0.3×T + 0.3×GPA + 0.2×CE
+   - Here, CE is the average of the comprehensive exam grades, GPA is your cumulative grade point average, AGS is an assessment grade score, and T is the thesis grade.
+
+2. If your curriculum does not include comprehensive exams:
+   - Degree Certificate Result = 0.2×AGS + 0.3×T + 0.5×GPA
+
+3. If both a comprehensive exam and a thesis are not required for your program:
+   - Degree Certificate Result = 0.5×AGS + 0.5×GPA
+
+The result should be rounded up to two decimal places, but partial grades used in the calculation

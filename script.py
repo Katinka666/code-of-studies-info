@@ -52,4 +52,4 @@ from api.send_prompt import send_prompt
 
 # As a parameter, enter the index of the question for which you want the answer.
 # Question indexes start with zero!
-send_prompt(10)
+send_prompt(0)
